@@ -1,0 +1,7 @@
+django==2.2
+djangorestframework==3.9.2
+pytz==2020.5
+pyparsing==2.2.0
+packaging==16.8
+django-crispy-forms==1.7.2
+Pillow==8.1.0
